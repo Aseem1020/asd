@@ -1,0 +1,31 @@
+.as{
+    text-align: center;
+    border: 2px solid red;
+color: red;
+
+}
+
+.para{
+    text-align: center;
+    color: black;
+    border: 2px solid black;
+    
+}
+
+.aj{
+    text-align: center;
+    color: black;
+    border: 2px solid blue;
+    text-decoration: underline;
+}
+
+.ad{
+    text-align: center;
+    color: black;
+    border: 2px dashed green;
+    text-decoration: line-through;
+    
+
+}
+
+
